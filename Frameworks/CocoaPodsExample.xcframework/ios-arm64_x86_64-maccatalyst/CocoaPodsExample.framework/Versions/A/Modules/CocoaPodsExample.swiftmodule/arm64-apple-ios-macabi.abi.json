@@ -1,0 +1,67 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "Handshake",
+        "printedName": "Handshake",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Handshake",
+                "printedName": "CocoaPodsExample.Handshake",
+                "usr": "s:16CocoaPodsExample9HandshakeC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16CocoaPodsExample9HandshakeCACycfc",
+            "mangledName": "$s16CocoaPodsExample9HandshakeCACycfc",
+            "moduleName": "CocoaPodsExample",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getMessage",
+            "printedName": "getMessage()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16CocoaPodsExample9HandshakeC10getMessageSSyF",
+            "mangledName": "$s16CocoaPodsExample9HandshakeC10getMessageSSyF",
+            "moduleName": "CocoaPodsExample",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:16CocoaPodsExample9HandshakeC",
+        "mangledName": "$s16CocoaPodsExample9HandshakeC",
+        "moduleName": "CocoaPodsExample",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
