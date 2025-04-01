@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage      = "https://github.com/walkwel-technology/cocoapodsexample"
   spec.license       = { :type => "MIT", :file => "LICENSE" }
   spec.author        = { "Walkway Technology" => "walkweltech@gmail.com" }
-  spec.source        = { :git => "https://github.com/walkwel-technology cocoapodsexample.git", :tag => "#{spec.version}" }
+  spec.source        = { :git => "https://github.com/walkwel-technology/cocoapodsexample.git", :tag => "#{spec.version}" }
   spec.ios.deployment_target = "14.0"
 
   # Add XCFramework
